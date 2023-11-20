@@ -1,5 +1,10 @@
 # Dowell-sample-size-calculation
+### Overview:
+- [Introduction](#introduction)
+- [Getting Started](#getting-started)
+- [Documentation and Support](#documentation-and-support)
 
+## Introduction
 The Sample Size Calculator API is a tool designed to assist researchers, analysts, and data scientists in determining the appropriate sample size for a given population, variance, error tolerance, and confidence interval. This API streamlines the process of calculating sample sizes for various statistical analyses, ensuring that your studies are statistically sound and reliable.
 
 ## Getting Started
